@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  src: url(./fonts/bpg_glaho_sylfaen.ttf);
+  font-family: sylfaen;
+}
+
+body {
+  background-color: #eaeaea;
+}
